@@ -155,7 +155,6 @@
     background-image: url("image/hero_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center; /* ensures perfect centering */
     display: flex;
     justify-content: center;
     align-items: flex-end;
