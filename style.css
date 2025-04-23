@@ -151,7 +151,7 @@
 
 /* --------------------- MAIN IMAGE --------------------- */
 .main-image {
-    height: 350px;
+    height: 400px;
     background-image: url("image/hero_image.jpg");
     background-size: cover;
     background-position: center;
