@@ -151,10 +151,11 @@
 
 /* --------------------- MAIN IMAGE --------------------- */
 .main-image {
-    height: 400px;
+    height: 350px;
     background-image: url("image/hero_image.jpg");
     background-size: cover;
-    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center center; /* ensures perfect centering */
     display: flex;
     justify-content: center;
     align-items: flex-end;
